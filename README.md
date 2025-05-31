@@ -35,12 +35,6 @@ A simple, modern weather app built with HTML, CSS, and JavaScript. Enter any cit
 
 This app uses the [OpenWeatherMap API](https://openweathermap.org/api). The API key is hardcoded in [`script.js`](script.js):
 
-```js
-const API_KEY = "9f44c1b271c1ad2d72e110b314f3243f";
-```
-
-To use your own API key, replace the value of `API_KEY` in [`script.js`](script.js).
-
 ## Project Structure
 
 ```
