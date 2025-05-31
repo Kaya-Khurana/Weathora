@@ -48,10 +48,4 @@ README.md
 - [`styles.css`](styles.css): App styling
 - [`script.js`](script.js): Weather fetching and UI logic
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-*Made with ❤️ by [Your Name](https://github.com/kaya-Khurana)*
